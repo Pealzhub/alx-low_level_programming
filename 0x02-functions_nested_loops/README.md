@@ -1,3 +1,5 @@
+#0x02 Functions Nested loops
+README.md
 # Functions, nested loops
                 
                 
@@ -752,4 +754,3 @@ int main(void)
                 }
                 printf("\n");
                 return (0);
-        }
