@@ -12,9 +12,9 @@ _putchar('\n');
 else
 {
 int i;
-for (i = 1; i <= n; i++)
+for (i = 0; i <= n; i++)
 {
-putchar('');
+putchar('_');
 }
 _putchar('\n');
 }
